@@ -1,0 +1,11 @@
+header {
+  height: 100%;
+  width: 100%;
+  background-image: url('./nasa.jpg');
+  font-family: 'Zen Dots', cursive;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
